@@ -18,7 +18,7 @@
 
 | Main Dashboard | Booking a Date |
 |:---:|:---:|
-| ![Main UI](images/screenshot1.png) | ![Booking Process](images/screenshot2.png) |
+| ![Main UI](images/Screenshot1.png) | ![Booking Process](images/Screenshot2.png) |
 
 ---
 
